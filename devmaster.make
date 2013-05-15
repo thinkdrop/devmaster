@@ -14,6 +14,8 @@ projects[hosting_drush_aliases][type] = "module"
 projects[hosting_filemanager][type] = "module"
 projects[hosting_logs][type] = "module"
 projects[hosting_queue_runner][type] = "module"
+projects[hosting_solr][type] = "module"
+projects[hosting_tasks_extra][type] = "module"
 
 ; Aegir Hostmaster modules
 ; This includes all hostmaster contrib and libraries!
