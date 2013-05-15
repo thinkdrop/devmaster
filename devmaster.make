@@ -20,6 +20,7 @@ projects[hosting_tasks_extra][type] = "module"
 ; Aegir Hostmaster modules
 ; This includes all hostmaster contrib and libraries!
 projects[hostmaster][download][type] = "git"
+projects[hostmaster][download][branch] = "6.x-1.x"
 projects[hostmaster][type] = "profile"
 
 
